@@ -32,6 +32,17 @@ Get-FileHash .\MEISwin-v1.582-releaseVersion-170221.zip -Algorithm SHA256
 | 1.57 | `MEISwin-v1.57-releaseVersion-130619.zip` | `8876404e682ede95e15abfe1df1c683e5f841a612779cb854babc99955aa56df` |
 | (video) | `Specification_of_isotope.mp4` | `9e40de232089e2d608bc29a6e0f532846a27b9c39a88683bba720ff932c61509` |
 
+## Version history
+
+Dates are those listed on the old website.
+
+| Version | Date | Changes |
+|---|---|---|
+| [1.582](https://github.com/hosei-ionbeam/MEISwin-releases/releases/tag/v1.582) | 2017-02-21 | EMG5.0 now can be used from GUI menu. sigma_0 of EMG 5.0 are as same as that of EMG5.2.<br>The simulation has become faster by using large BLOCKSIZE with OPEN statements. |
+| [1.581](https://github.com/hosei-ionbeam/MEISwin-releases/releases/tag/v1.581) | 2013-07-18 | Max of smoothing number for experimental data, 10->50<br>Warning message when OS uses comma as decimal point. |
+| [1.58](https://github.com/hosei-ionbeam/MEISwin-releases/releases/tag/v1.58) | 2013-07-13 | Error message, Japanese -> English |
+| [1.57](https://github.com/hosei-ionbeam/MEISwin-releases/releases/tag/v1.57) | 2013-06-17 | Earliest version listed on the old website (no changes described). |
+
 ## About the move
 
 These versions were originally distributed on the Research Center's website between 2013 and 2017. In October 2026 the distribution was moved to this GitHub repository. The files are unchanged (verified byte-identical to the original builds).

@@ -32,6 +32,17 @@ Get-FileHash .\MEISwin-v1.582-releaseVersion-170221.zip -Algorithm SHA256
 | 1.57 | `MEISwin-v1.57-releaseVersion-130619.zip` | `8876404e682ede95e15abfe1df1c683e5f841a612779cb854babc99955aa56df` |
 | (動画) | `Specification_of_isotope.mp4` | `9e40de232089e2d608bc29a6e0f532846a27b9c39a88683bba720ff932c61509` |
 
+## 版の履歴
+
+日付は旧ページに掲載していた日です。
+
+| 版 | 日付 | 変更点 |
+|---|---|---|
+| [1.582](https://github.com/hosei-ionbeam/MEISwin-releases/releases/tag/v1.582) | 2017-02-21 | EMG5.0(σ0はEMG5.2と同じ)を指定出来るようにした。<br>シミュレーションの高速化を行った。(OPEN文で大きなBLOCKSIZEを指定するようにした) |
+| [1.581](https://github.com/hosei-ionbeam/MEISwin-releases/releases/tag/v1.581) | 2013-07-18 | 実験データに対するスムージング点数の最大値を 10 → 50<br>OS が小数点にカンマを用いている時は警告メッセージを出力するようにした。 |
+| [1.58](https://github.com/hosei-ionbeam/MEISwin-releases/releases/tag/v1.58) | 2013-07-13 | エラーメッセージの変更 |
+| [1.57](https://github.com/hosei-ionbeam/MEISwin-releases/releases/tag/v1.57) | 2013-06-17 | 旧ページに掲載していた中で最も古い版 (変更点の記載なし) |
+
 ## 配布場所の移設について
 
 これらの版は、2013〜2017 年に研究所のウェブサイトで公開してきたものです。2026 年 10 月に配布場所をこの GitHub リポジトリへ移しました。ファイルの中身は変えていません (当時の原本とバイト一致を確認済み)。
