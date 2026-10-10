@@ -6,7 +6,7 @@ Research Center of Ion Beam Technology, Hosei University
 
 Author: Tomoaki Nishimura ( t-nishi ( a ) hosei.ac.jp )
 
-MEISwin simulates and analyzes medium-energy ion scattering (MEIS) and Rutherford backscattering spectrometry (RBS) spectra. It was first presented at the 21st International Conference on Ion Beam Analysis (IBA 2013).
+MEISwin simulates and analyzes medium-energy ion scattering (MEIS) and Rutherford backscattering spectrometry (RBS) spectra.
 
 ## Download
 

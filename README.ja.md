@@ -6,7 +6,7 @@
 
 作成者: 西村智朗 ( t-nishi ( a ) hosei.ac.jp )
 
-MEISwin は、中エネルギーイオン散乱 (MEIS) とラザフォード後方散乱分光 (RBS) のスペクトルをシミュレーションし解析するソフトウェアです。21st International Conference on Ion Beam Analysis (IBA 2013) で公開しました。
+MEISwin は、中エネルギーイオン散乱 (MEIS) とラザフォード後方散乱分光 (RBS) のスペクトルをシミュレーションし解析するソフトウェアです。
 
 ## ダウンロード
 
