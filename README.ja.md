@@ -4,7 +4,7 @@
 
 法政大学 イオンビーム工学研究所
 
-作成者: 西村智朗 ( t-nishi ( a ) hosei.ac.jp )
+作成者: 西村智朗 (Tomoaki Nishimura)、t-nishi (a) hosei.ac.jp
 
 MEISwin は、中エネルギーイオン散乱 (MEIS) とラザフォード後方散乱分光 (RBS) のスペクトルをシミュレーションし解析するソフトウェアです。
 
