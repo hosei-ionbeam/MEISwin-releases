@@ -12,7 +12,7 @@ MEISwin は、中エネルギーイオン散乱 (MEIS) とラザフォード後�
 
 配布ファイルは [Releases](https://github.com/hosei-ionbeam/MEISwin-releases/releases) から入手してください。最新版は **v1.582 (2017-02-21)** です。
 
-参考動画「アイソトープを指定する場合の操作」(`Specification_of_isotope.mp4`、2018-05-18) は v1.582 のリリースに添付しています。
+参考動画「アイソトープを指定する場合の操作」(`Specification_of_isotope.mp4`、2018-05-18) は v1.582 のリリースに添付しています。YouTube でも見られます: https://youtu.be/GkY538oCmec
 
 このリポジトリには配布ファイルとその説明だけを置いています。ソースコードは含みません。
 
