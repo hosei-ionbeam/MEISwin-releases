@@ -12,7 +12,7 @@ MEISwin simulates and analyzes medium-energy ion scattering (MEIS) and Rutherfor
 
 Download the packages from [Releases](https://github.com/hosei-ionbeam/MEISwin-releases/releases). The latest version is **v1.582 (2017-02-21)**.
 
-A reference video, "Operation when specifying isotope" (`Specification_of_isotope.mp4`, 2018-05-18), is attached to the v1.582 release. It can also be watched on YouTube: https://youtu.be/GkY538oCmec
+A reference video, "Operation when specifying isotope" (`Specification_of_isotope.mp4`, 2018-05-18), is attached to the v1.582 release.
 
 This repository hosts the distribution packages and their notes only. It contains no source code.
 
@@ -31,6 +31,8 @@ Get-FileHash .\MEISwin-v1.582-releaseVersion-170221.zip -Algorithm SHA256
 | 1.58 | `MEISwin-v1.58-releaseVersion-130713.zip` | `7dd6ae7f0dd1c41385ce0a09d0a7eacd04e036f73311566edd16cc0d234c110e` |
 | 1.57 | `MEISwin-v1.57-releaseVersion-130619.zip` | `8876404e682ede95e15abfe1df1c683e5f841a612779cb854babc99955aa56df` |
 | (video) | `Specification_of_isotope.mp4` | `9e40de232089e2d608bc29a6e0f532846a27b9c39a88683bba720ff932c61509` |
+
+The video is also on YouTube for reference: https://youtu.be/GkY538oCmec
 
 ## Version history
 
