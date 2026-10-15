@@ -16,6 +16,8 @@ A reference video, "Operation when specifying isotope" (`Specification_of_isotop
 
 This repository hosts the distribution packages and their notes only. It contains no source code.
 
+The "Source code (zip)" and "Source code (tar.gz)" links under Assets are added automatically by GitHub to every release and cannot be removed. They contain only these README files, not the software's source code. Download the files listed in the Files table of each release.
+
 ## Verifying the files
 
 You can confirm that a downloaded file has not been altered by comparing its SHA-256 with the table below.
